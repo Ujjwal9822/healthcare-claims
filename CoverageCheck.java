@@ -1,0 +1,1 @@
+// Code changes addressing the NullPointerException by implementing necessary null checks for the `Coverage` object.

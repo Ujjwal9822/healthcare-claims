@@ -1,0 +1,1 @@
+if (cov != null && !cov.isActive()) {

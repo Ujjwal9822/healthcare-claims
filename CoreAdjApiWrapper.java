@@ -1,1 +1,1 @@
-if (cov != null && !cov.isActive()) {
+if (cov != null && !cov.isActive()) { ... } // Add null check before calling isActive()

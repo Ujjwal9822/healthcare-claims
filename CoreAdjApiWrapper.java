@@ -1,1 +1,1 @@
-if (coverage != null && coverage.isActive()) { /* existing logic */ }
+if (cov == null || !cov.isActive()) { /* handle inactive coverage */ }

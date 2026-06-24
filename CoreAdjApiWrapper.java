@@ -1,0 +1,1 @@
+if (cov == null || !cov.isActive()) { /* handle the case where cov is null or not active */ }
